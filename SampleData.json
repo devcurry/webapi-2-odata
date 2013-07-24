@@ -1,0 +1,81 @@
+{
+  "Id": 1,
+  "Name": "Customer 1",
+  "Orders": [
+    {
+      "Id": 1,
+      "PurchaseDate": "2013-07-23",
+      "BillingAddress": "Address 1",
+      "OrderItems": [
+        {
+          "Id": 1,
+          "Name": "Item 1",
+          "Amount": 3,
+          "Price": 4.0
+        },
+        {
+          "Id": 1,
+          "Name": "Item 2",
+          "Amount": 3,
+          "Price": 4.0
+        },
+        {
+          "Id": 1,
+          "Name": "Item 3",
+          "Amount": 3,
+          "Price": 4.0
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "PurchaseDate": "2013-07-23",
+      "BillingAddress": "Address 2",
+      "OrderItems": [
+        {
+          "Id": 1,
+          "Name": "Item 1",
+          "Amount": 3,
+          "Price": 4.0
+        },
+        {
+          "Id": 1,
+          "Name": "Item 4",
+          "Amount": 3,
+          "Price": 4.0
+        },
+        {
+          "Id": 1,
+          "Name": "Item 5",
+          "Amount": 3,
+          "Price": 4.0
+        }
+      ]
+    },
+    {
+      "Id": 1,
+      "PurchaseDate": "2013-07-23",
+      "BillingAddress": "Address 3",
+      "OrderItems": [
+        {
+          "Id": 1,
+          "Name": "Item 2",
+          "Amount": 3,
+          "Price": 4.0
+        },
+        {
+          "Id": 1,
+          "Name": "Item 3",
+          "Amount": 3,
+          "Price": 4.0
+        },
+        {
+          "Id": 1,
+          "Name": "Item 4",
+          "Amount": 3,
+          "Price": 4.0
+        }
+      ]
+    }
+  ]
+}
